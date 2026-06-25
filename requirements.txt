@@ -12,7 +12,6 @@ gunicorn==25.1.0
 psycopg-binary==3.3.3
 python-dotenv
 email_validator
-smtplib
 email.mime
 email.policy
 functools
